@@ -1,4 +1,4 @@
-# Rotten-Tomatoes-Review-Analysis
+# Rotten Tomatoes Review Analysis
 
 
 This was my contribution to a team final project for one my classes in the UC Davis MSBA program. The assignment was to create a business initiative in which we would use analytics to create a small startup. Our team's idea was to create a consultancy firm that would help streaming services like Netflix. Of course, we didn't have Netflix user data or any streaming service's user data, so we used [a dataset of one million Rotten Tomatoes reviews](https://www.kaggle.com/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset?select=rotten_tomatoes_movies.csv) to build our proof-of-concept.
