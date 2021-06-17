@@ -2,7 +2,7 @@
 
 ## Linear Regression, Random Forest Regression, Sentiment Analysis, and Topic Modeling in PySpark on Google Colab
 
-This was my contribution to a team final project for one my classes in the UC Davis MSBA program. The assignment was to create a business initiative in which we would use analytics to create a small startup. Our team's idea was to create a consultancy firm that would help streaming services like Netflix. Of course, we didn't have Netflix user data or any streaming service's user data, so we used [a dataset of one million Rotten Tomatoes reviews](https://www.kaggle.com/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset?select=rotten_tomatoes_movies.csv) to build our proof-of-concept.
+This was my contribution to a team final project for one of my classes in the UC Davis MSBA program. The assignment was to create a business initiative in which we would use analytics to create a small startup. Our team's idea was to create a consultancy firm that would help streaming services like Netflix. Of course, we didn't have Netflix user data or any streaming service's user data, so we used [a dataset of one million Rotten Tomatoes reviews](https://www.kaggle.com/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset?select=rotten_tomatoes_movies.csv) to build our proof-of-concept.
 
 We focused on helping Netflix, as it's still the most well-known and well-established streaming service. We identified that Netflix's main issue has been its massive overspending on acquiring content. They've also greenlit sequels to original content before the content even releases, as they want to get production started as quickly as possible.
 
